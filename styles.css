@@ -115,7 +115,7 @@ body {
     display: flex;
     font-family: 'BeuronRegular';
     font-weight: bold;
-    color:paleturquoise;
+    color: paleturquoise;
     text-shadow: black 2px 2px;
     /* z-index: 2; */
     /* flex-direction: column; */
